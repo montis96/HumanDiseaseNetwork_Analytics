@@ -1,4 +1,4 @@
-Di seguito sarà  descritta la struttura del progetto:
+Struttura del progetto:
 
 - Cytoscape: contiene le reti costruite con cytoscape
 	- HDN-full: rete completa di tutte le analisi
